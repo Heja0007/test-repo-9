@@ -1,0 +1,11 @@
+{
+    "graph":"",
+    "tags":[],
+    "S3_BUCKET": "",
+    "REGION": "",
+    "ACCESS_KEY" : "",
+    "SECRET_ACCESS_KEY" : "",
+    "GITHUB_KEY": "",
+    "SAMPLE_CHATGPT_API_KEY": "",
+    "events_gif" :""
+}
